@@ -4,6 +4,6 @@
 
 Python project uploadable to GCP as a Cloud Function
 
-Further information on the below link (Spanish explanation) : 
+Further information in the link below (Spanish explanation) : 
 
 https://blog.escueladedatosvivos.ai/p/30d1238e-4a19-45da-9855-9a913bb02024/
